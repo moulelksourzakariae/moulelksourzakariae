@@ -1,40 +1,31 @@
-<!-- Header Section -->
-<h1 align="center">Hi there, I'm Zakariae Moul-El-Ksour! 👋</h1>
 
-<!-- Introduction -->
-<p align="center">I'm a passionate Industrial Engineering student from Morocco, specializing in programming and data analysis.</p>
+hi, i'm [Moul-El-Ksour Zakariae](https://www.linkedin.com/in/zakariae-moul-el-ksour-b35bb01b9/), a third-year Industrial Engineering student from Morocco, with a strong passion for programming and data analysis.
 
-<!-- Skills Section -->
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-blue" alt="C++">
-  <img src="https://img.shields.io/badge/HTML-Intermediate-blue" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-Intermediate-blue" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-blue" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Django-Intermediate-blue" alt="Django">
-  <img src="https://img.shields.io/badge/Oracle%20SQL-Intermediate-blue" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/MATLAB-Intermediate-blue" alt="MATLAB">
-  <img src="https://img.shields.io/badge/R-Intermediate-blue" alt="R">
-</p>
 
-<!-- Projects Section -->
-<h2 align="center">Projects</h2>
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:moulelksourzakariae@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-<!-- Contact Section -->
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
-  </a>
-</p>
+**languages and tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJS55NI1qjx4cPdOgxhk54qStPDnr8KfPJt8GncI_Ow&s"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png"></code>
+<code><img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png"></code>
+<code><img height="20" src="https://www.innozant.com/wp-content/uploads/2023/05/oracle-sql.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIkjVbRk028fGJHoac9stSXspiITjbwiwrzZ_W0OmqQ&s"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- Footer Section -->
-<p align="center">Let's collaborate and build something awesome together! 😊</p>
+
+
+
+
+
+
