@@ -7,7 +7,7 @@
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw3DRTBtNw40iWhdIvRISGRm&ust=1713711632717000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiMzLqH0YUDFQAAAAAdAAAAABAE" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-blue" alt="C++">
   <img src="https://img.shields.io/badge/HTML-Intermediate-blue" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-Intermediate-blue" alt="CSS">
