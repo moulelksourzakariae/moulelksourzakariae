@@ -5,7 +5,7 @@ hi, i'm [Moul-El-Ksour Zakariae](https://www.linkedin.com/in/zakariae-moul-el-ks
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:moulelksourzakariae@gmail.com) :)
+- 💼 wanna reach out?, [email](mailto:moulelksourzakariae@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
